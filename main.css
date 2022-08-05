@@ -1,0 +1,11 @@
+body {margin: 0; 'open sans'; text-align: center;}
+
+h1 {color: #a67d4a;}
+
+main {width: 100%; min-height: calc(-50px); text-align: center;}
+
+section {padding: 100px 50px 75px; text-align: center;}
+
+section div {width: 100%; max-width: 900px; margin: 0 auto;}
+
+section p {line-height: 2}
